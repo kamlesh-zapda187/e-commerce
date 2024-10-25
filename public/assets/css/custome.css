@@ -1,0 +1,11 @@
+.error{color: red;}
+.cursor-pointer {cursor: pointer;}
+.shop-sidebar .categor-list li .active{color: #F7941D !important;}
+.pagination .page-item{display: inline-block;}
+.pagination .page-item .page-link{display: inline-block;}
+.swal2-popup.swal2-toast.swal2-icon-success{background: #F7941D !important;}
+.swal2-popup.swal2-toast.swal2-icon-error{background: #ff0000a3 !important;}
+.swal2-icon.swal2-error{background:#fff;}
+/* 
+
+

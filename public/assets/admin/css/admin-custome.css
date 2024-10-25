@@ -1,0 +1,16 @@
+.error{color: red;}
+.cursor-pointer {cursor: pointer;}
+.action-icon:hover {color: #6c757d !important;}
+.action-icon {width: 30px;height: 30px;border: 1px solid transparent;}
+.pagination .page-item.active .page-link{background-color: #38414a !important;border-color: #38414a !important;}
+.small-tips{font-size: 13px;}
+#sidebar-menu>ul>li>a.active {color: #00acc1;background: #e8e8e8;}
+.table .table-td-image img {
+    height: 30px;
+    width: 30px;
+}
+
+.role-table .checkbox label::before {top: -12px;cursor: pointer;}
+.role-table .checkbox input[type=checkbox]:checked+label::after {
+    top: -8px;cursor: pointer;
+}
