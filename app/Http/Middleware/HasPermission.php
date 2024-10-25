@@ -19,7 +19,6 @@ class HasPermission
     public function handle(Request $request, Closure $next)
     {
         
-        
         $routeName = $request->route()->getName();
        
         if(Auth::guard('admin')->user()->hasPermission($routeName,'can_view'))
